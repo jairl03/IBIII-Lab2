@@ -23,10 +23,6 @@ Repositorio del Laboratorio 2 del curso de Instrumentación Biomédica III en el
 7. Realizar la regresión lineal Vout vs. pH y obtener la pendiente, el intercepto y el R²; comparar la sensibilidad experimental con la teórica.
 
 ## Autores
-- Tito Fernandez, Dante Adrian       23190133
-- Lázaro Canales, Jair Renato        23190377
-- Arroyo Ramos, Rosbeth Nayelhy      23190114
-
 - Tito Fernandez, Dante Adrian
 - Lázaro Canales, Jair Renato
 - Arroyo Ramos, Rosbeth Nayelhy
